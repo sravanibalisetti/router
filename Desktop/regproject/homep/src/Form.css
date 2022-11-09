@@ -1,0 +1,46 @@
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(177, 176, 168);
+}
+#lform
+{
+    display: block;
+    background-color: rgb(238, 195, 124);
+    width: 200px;
+    height:250px;
+    text-align: center;
+    font-size: 20px;
+    margin: 150px;
+    font-weight: 600;
+  font-size: 1rem;
+  border-radius: 50%;
+  
+    
+}
+
+#Rform
+{
+    bottom:400px;
+    display: block;
+    background-color:  rgb(238, 195, 124);
+    width: 200px;
+    height:300px;
+    text-align: center;
+    font-size: 20px;
+    margin: 150px;
+    font-weight: 600;
+    font-size: 1rem;
+}
+input
+{
+    background-color: rgb(238, 195, 124);;
+
+}
+label
+{
+background-color: rgb(231, 155, 233);
+border-radius: 25px;
+}
